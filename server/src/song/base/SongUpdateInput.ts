@@ -1,0 +1,2 @@
+class SongUpdateInput {}
+export { SongUpdateInput };
